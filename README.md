@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/asror-adilov">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white](https://www.linkedin.com/in/asror-adilov-09b511378/)">
   </a>
 </p>
 
