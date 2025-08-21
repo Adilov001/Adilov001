@@ -47,7 +47,7 @@
   Stack: Aiogram, MongoDB, Docker, Railway.  
   Repo: [github.com/Adilov001/tabiiy-ovoz-bot](https://github.com/Adilov001/tabiiy-ovoz-bot)
 
-- **FastAPI Starter** — JWT auth, RBAC, tests, Docker, CI/CD.  
+- **FastAPI Starter** — JWT auth, RBAC, tests, Docker,   
   Repo: [github.com/Adilov001/fastapi-starter](https://github.com/Adilov001/fastapi-starter)
 
 - **Django Blog API** — DRF, PostgreSQL, caching, Swagger.  
