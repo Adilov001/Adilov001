@@ -1,8 +1,7 @@
-## Hi there 👋
-
 <h1 align="center">Hi, I'm Asror Adilov 👋</h1>
 <p align="center">Backend Developer (Python/Django/FastAPI). I build REST APIs and Telegram bots.</p>
 
+<!-- Contact Links -->
 <p align="center">
   <a href="mailto:asrorkhasanboyev0630@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
@@ -15,17 +14,21 @@
   </a>
 </p>
 
+<!-- GitHub Stats -->
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adilov001&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adilov001&layout=compact&hide_border=true&theme=radical" />
 </p>
 
+<!-- Streak -->
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=Adilov001&theme=radical&hide_border=true" />
 </p>
 
-### Tech Stack
-<p>
+---
+
+### 🛠 Tech Stack
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36"/>
@@ -37,16 +40,22 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
 </p>
 
-### Featured Projects
+---
+
+### 🚀 Featured Projects
 - **Tabiiy Ovoz Sirlari Bot** — registration, channel gate, gender-based routing, admin handoff.  
   Stack: Aiogram, MongoDB, Docker, Railway.  
-  Repo: https://github.com/Adilov001/tabiiy-ovoz-bot
+  Repo: [github.com/Adilov001/tabiiy-ovoz-bot](https://github.com/Adilov001/tabiiy-ovoz-bot)
 
 - **FastAPI Starter** — JWT auth, RBAC, tests, Docker, CI/CD.  
-  Repo: https://github.com/Adilov001/fastapi-starter
+  Repo: [github.com/Adilov001/fastapi-starter](https://github.com/Adilov001/fastapi-starter)
 
 - **Django Blog API** — DRF, PostgreSQL, caching, Swagger.  
-  Repo: https://github.com/Adilov001/django-blog-api
+  Repo: [github.com/Adilov001/django-blog-api](https://github.com/Adilov001/django-blog-api)
 
-### Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adilov001&theme=react-dark&hide_border=true" />
+---
+
+### 📈 Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adilov001&theme=react-dark&hide_border=true" />
+</p>
