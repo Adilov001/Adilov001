@@ -2,7 +2,7 @@
 <p align="center">Backend Developer (Python/Django/FastAPI). I build REST APIs and Telegram bots.</p>
 
 <!-- Contact Links -->
-<pre>
+
 <p align="center">
   <a href="mailto:asrorkhasanboyev0630@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
   </a>
 </p>
-</pre>
+
 
 <!-- GitHub Stats -->
 <pre>
