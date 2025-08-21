@@ -2,6 +2,7 @@
 <p align="center">Backend Developer (Python/Django/FastAPI). I build REST APIs and Telegram bots.</p>
 
 <!-- Contact Links -->
+<pre>
 <p align="center">
   <a href="mailto:asrorkhasanboyev0630@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
@@ -13,13 +14,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
   </a>
 </p>
-<br>
+</pre>
+
 <!-- GitHub Stats -->
+<pre>
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adilov001&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adilov001&layout=compact&hide_border=true&theme=radical" />
 </p>
-<br>
+</pre>
+
 <!-- Streak -->
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=Adilov001&theme=radical&hide_border=true" />
